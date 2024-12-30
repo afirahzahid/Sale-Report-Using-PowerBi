@@ -4,14 +4,14 @@ This interactive sales dashboard provides comprehensive insights into business p
 
 ### Key Metrics
  * Total Sales: $16,351,550
- ** Budget Target: $15,300,000
- *  Achievement: Exceeded budget by $1,051,550.34 (6.87% over target)
+ * Budget Target: $15,300,000
+ * Achievement: Exceeded budget by $1,051,550.34 (6.87% over target)
 
 ### Dashboard Components
 1. Sales by Product Category
-- Bikes: Dominates with 93.93% of total sales ($15,359,502)
-- Accessories: Minor contribution
-- Clothing: Approximately 4.09% ($668,242)
+* Bikes: Dominates with 93.93% of total sales ($15,359,502)
+* Accessories: Minor contribution
+* Clothing: Approximately 4.09% ($668,242)
 
 2. Top 10 Customer Analysis
 
