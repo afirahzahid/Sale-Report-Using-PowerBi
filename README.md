@@ -3,9 +3,9 @@
 This interactive sales dashboard provides comprehensive insights into business performance, featuring dynamic visualizations focusing on product sales, customer behavior, and geographical distribution. The dashboard visualizes data from 2019-2021, with detailed monthly breakdowns and multiple analytical perspectives.
 
 ### Key Metrics
-- Total Sales: $16,351,550
-- Budget Target: $15,300,000
-- Achievement: Exceeded budget by $1,051,550.34 (6.87% over target)
+ * Total Sales: $16,351,550
+ ** Budget Target: $15,300,000
+ *  Achievement: Exceeded budget by $1,051,550.34 (6.87% over target)
 
 ### Dashboard Components
 1. Sales by Product Category
